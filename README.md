@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Liiff&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=@syf2211&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=480&lines=Frontend+%7C+Full-stack+engineer;Kotlin+%C2%B7+Rust+%C2%B7+JavaScript+%C2%B7+Python;Building+things+that+ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=480&lines=Frontend+%7C+Full-stack+engineer;Golang+%C2%B7+Rust+%C2%B7+JavaScript+%C2%B7+Python;Building+things+that+ship" alt="Typing SVG" />
 
 <br/>
 
-![Golang](https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-A97BFF?style=for-the-badge&logo=golang&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
