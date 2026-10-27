@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Liiff" width="100%" />
+<img src="./header.svg" alt="Liiff" width="100%" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="./assets/stack.svg" alt="Language Stack" width="100%" /></td>
-<td width="50%" valign="top"><a href="https://github.com/liff_co?tab=repositories"><img src="./assets/projects.svg" alt="Projects" width="100%" /></a></td>
+<td width="50%" valign="top"><img src="./stack.svg" alt="Language Stack" width="100%" /></td>
+<td width="50%" valign="top"><a href="https://github.com/liff_co?tab=repositories"><img src="./projects.svg" alt="Projects" width="100%" /></a></td>
 </tr>
 </table>
