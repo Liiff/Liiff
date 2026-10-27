@@ -12,9 +12,10 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top"><img src="./stack.svg" alt="Language Stack" width="100%" /></td>
-<td width="50%" valign="top"><a href="https://github.com/liff_co?tab=repositories"><img src="./projects.svg" alt="Projects" width="100%" /></a></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="./stack.svg" alt="Language Stack" width="100%" />
+
+<a href="https://github.com/liff_co?tab=repositories"><img src="./projects.svg" alt="Projects" width="100%" /></a>
+
+</div>
